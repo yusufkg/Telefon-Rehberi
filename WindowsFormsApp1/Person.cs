@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace TelefonRehberi
 {
     internal class Person
     {

@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WindowsFormsApp1
+namespace TelefonRehberi
 {
     using System;
     using System.Collections.Generic;

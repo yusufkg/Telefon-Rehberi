@@ -1,5 +1,5 @@
 ﻿
-namespace WindowsFormsApp1
+namespace TelefonRehberi
 {
     partial class Form1
     {
