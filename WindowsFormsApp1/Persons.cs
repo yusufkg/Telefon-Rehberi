@@ -11,10 +11,13 @@ namespace TelefonRehberi
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Persons
     {
         public int PersonID { get; set; }
+        [Required]
+        [StringLength(10)]
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string City { get; set; }
