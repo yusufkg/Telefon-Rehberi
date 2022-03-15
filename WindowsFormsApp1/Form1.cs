@@ -75,6 +75,7 @@ namespace TelefonRehberi
                     txtAddress.Text = model.Address;
                 }
                 btnEkle.Text = "Güncelle";
+                btnGuncelle.Visible= false;
                 btnSil.Enabled = true;
             }
         }
@@ -100,6 +101,11 @@ namespace TelefonRehberi
             {
 
             }
+        }
+
+        private void btnGuncelle_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
